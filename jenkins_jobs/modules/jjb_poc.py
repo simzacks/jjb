@@ -309,7 +309,7 @@ properties = [
                 {
                     "yaml": "heavy-job",
                     "xml": "hudson.plugins.heavy__job.HeavyJobProperty",
-                    "fields": [{reverse
+                    "fields": [{
                                 "yaml": "weight",
                                 "xml": "weight",
                                 "default": 1
